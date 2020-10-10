@@ -19,5 +19,6 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
- num(num)
+ Math.sqrt(num)
+# A square root of a number is a value that, when multiplied by itself, gives the number.
 end
